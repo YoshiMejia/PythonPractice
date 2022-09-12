@@ -1,0 +1,1 @@
+# enter the command python3.10 to begin the interactive terminal. It's good practice to keep an interactive shell open
