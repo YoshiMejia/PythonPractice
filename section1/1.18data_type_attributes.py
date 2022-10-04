@@ -6,7 +6,8 @@
 #  help(str.upper) will return documentation snippet with info on that method
 
 # 1.20
-# dir(__builtins__) returns built in functions (2 underscores on either side)
+
+# dir(__builtins__) returns built in functions (2 underscores on either side) so you would get a list of all the built in functions in Python
 
 # Get the mean below 
 
