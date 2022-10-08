@@ -11,6 +11,11 @@ print(occur)
 
 # Modify String (E)
 # Like the previous exercise, find the proper function or method that converts the string in username into lowercase letters and prints out the output.
-
 username = "Python3"
 print(username.lower())
+
+# Create Complex Dictionary (E)
+# Assign a dictionary to variable day_temperatures.
+#  The dictionary should contain three keys: 'morning', 'noon', and 'evening' and each key should contain a tuple as value.
+#  Each tuple should contain three floats.
+day_temperatures = { "morning": (1.2, 3.3, 4.4), "noon": (12.2, 12.34, 12.565), "evening": (12.3, 12.12, 14.3)}
